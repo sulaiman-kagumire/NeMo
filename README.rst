@@ -47,7 +47,7 @@ natural language processing (NLP).
 The primary objective of NeMo is to help researchers from industry and academia to reuse prior work (code and pretrained models) 
 and make it easier to create new `conversational AI models <https://developer.nvidia.com/conversational-ai#started>`_.
 
-All NeMo models are trained with `Lightning <https://github.com/Lightning-AI/lightning>`_ and 
+All NeMo models are trained with `Lightning <https://github.com/Lightning-AI/lightning>` and 
 training is automatically scalable to 1000s of GPUs. 
 Additionally, NeMo Megatron LLM models can be trained up to 1 trillion parameters using tensor and pipeline model parallelism.
 NeMo models can be optimized for inference and deployed for production use-cases with `NVIDIA Riva <https://developer.nvidia.com/riva>`_.
